@@ -9,3 +9,10 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# Nix/Direnv/Lorri
+.envrc
+
+# Ignore generated files
+main.tex
+*.pdf

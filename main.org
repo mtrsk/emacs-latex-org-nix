@@ -1,0 +1,12 @@
+#+TITLE: Org Article
+#+SUBTITLE: How to export Org to LaTeX
+#+AUTHOR: Myself
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [letterpaper]
+#+OPTIONS: toc:t
+
+* Section 01
+
+* Section 02
+
+* Section 03
