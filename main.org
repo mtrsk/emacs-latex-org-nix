@@ -3,6 +3,7 @@
 #+AUTHOR: Myself
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [letterpaper]
+#+LATEX_HEADER: \input{./tex/template.tex}
 #+OPTIONS: toc:t
 
 * Section 01
